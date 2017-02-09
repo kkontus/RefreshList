@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="listItem">#17d1ff</color>
+    <color name="listItemSelected">#0099cc</color>
+    <color name="backRed">#ff7979</color>
+    <!--<color name="printGreen">#99cc00</color>-->
+    <!--<color name="parentNameLightBlue">#c5eaf8</color>-->
+    <!--<color name="gray">#A9A9A9</color>-->
+    <!--<color name="googleGray">#303030</color>-->
+
+</resources>
